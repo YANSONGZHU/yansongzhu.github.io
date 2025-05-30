@@ -9,11 +9,11 @@ last_name: ZHU
 contact_note: >
   
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal Website, online Notebook and Wiki
+
 footer_text: >
   
 keywords: # add your own keywords or leave empty
-lang: cn # the language of your site (for example: en, fr, cn, ru, etc.)
+lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://yansongzhu.github.io # the base hostname & protocol for your site
@@ -84,7 +84,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
+blog_name: Blog # blog_name will be displayed in your blog page
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
